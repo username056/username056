@@ -1,5 +1,4 @@
 # username056 👋
-
 Backend-oriented developer focused on **Java/Spring**.  
 I build practical services with clean API design, auth, and reliable storage.
 
@@ -29,4 +28,6 @@ I build practical services with clean API design, auth, and reliable storage.
 ## 📌 Links
 - Portfolio: 
 - Blog: 
-- Email: 
+- Email:
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=green_dinosaur)
+
