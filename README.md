@@ -79,7 +79,7 @@ I build reliable backend services with clear domain boundaries, consistent APIs,
 * 분석 조건별 결과 캐싱 및 중복 생성을 방지하는 데이터 구조 설계
 * 지역·기간 조건을 조합한 통계 API 개발
 
-[**Repository →**](링크)
+[**Repository →**](https://github.com/EstateFlowSim/Project)
 
 <br>
 
@@ -102,9 +102,11 @@ I build reliable backend services with clear domain boundaries, consistent APIs,
 
 ## 📌 Links
 
-**Portfolio** : 
-**Blog** : 
-**Email** : 
+**Portfolio** :
+
+**Blog** : [블로그](https://until-the-light-seeps-inl220527.tistory.com)
+
+**Email** :
 
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=green_dinosaur)
